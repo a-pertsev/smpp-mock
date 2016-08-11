@@ -1,0 +1,11 @@
+*.iml
+
+.cache
+db.sqlite3
+
+smpp
+smpp_server_mock/config/*config.py
+
+*.pyc
+*.egg
+*egg-info
